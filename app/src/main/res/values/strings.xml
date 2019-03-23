@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FLAGIT</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_game">GameActivity</string>
+    <string name="title_activity_guess_the_flag">GuessTheFLag</string>
+    <string name="CORRECT">CORRECT!</string>
+    <string name="WRONG">WRONG!</string>
+    <string name="NEXT">NEXT</string>
+    <string name="SUBMIT">SUBMIT</string>
+    <string name="title_activity_guess_the_country">GuessTheCountry</string>
+    <string name="title_activity_advanced_level">AdvancedLevel</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
